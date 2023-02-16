@@ -10,4 +10,10 @@ Los datos recopilados, fueron suministrados de la Organización Mundial de la Sa
 Los casos fueron registrados de manera diaria desde el inicio de la pandemia; asimismo se sumaron los valores de cada dia, para poder obtener el total de casos por dia.
 ### MAPA
 El mapa se desarrolló usando la librerias plotly y en la parte de generar la geografia de este, se solicitó el siguiente trabajo de github en forma de Json `https://raw.githubusercontent.com/juaneladio/peru-geojson/master/peru_departamental_simple.geojson`
-por el autor @juaneladio.
+
+### LIBRERIAS INSTALADAS
+<li>pip install plotly
+<li>pip install pandas
+  
+### Mapa de Calor:
+  

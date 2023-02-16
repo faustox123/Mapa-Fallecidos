@@ -16,4 +16,4 @@ El mapa se desarrolló usando la librerias plotly y en la parte de generar la ge
 <li>pip install pandas
   
 ### Mapa de Calor:
-  
+![newplot](https://user-images.githubusercontent.com/87513184/219402598-b45001fc-3ac5-46ad-ac31-65ccaf3b8dca.png)
